@@ -8,7 +8,7 @@ BY SYAKIR ZAHARI
 2. Enter folder directory and run `npm install`
 3. run `npx expo start`
 
-# Explanation & Challeng
+# Explanation & Challenge
 
 1. Since no API endpoint to consume, I develop sample crud app using useState function
 2. Build using latest React Native Expo and JSX as programming language.
